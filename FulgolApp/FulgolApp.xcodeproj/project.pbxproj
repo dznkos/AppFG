@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE96CFFD1FE34E4700DADFCC /* PartidoBE.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE96CFFC1FE34E4700DADFCC /* PartidoBE.swift */; };
 		DEF3D3CB1FE30CF7006DBDC1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF3D3CA1FE30CF7006DBDC1 /* AppDelegate.swift */; };
 		DEF3D3CD1FE30CF7006DBDC1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF3D3CC1FE30CF7006DBDC1 /* ViewController.swift */; };
 		DEF3D3D01FE30CF7006DBDC1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEF3D3CE1FE30CF7006DBDC1 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DE96CFFC1FE34E4700DADFCC /* PartidoBE.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartidoBE.swift; sourceTree = "<group>"; };
 		DEF3D3C71FE30CF7006DBDC1 /* FulgolApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FulgolApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEF3D3CA1FE30CF7006DBDC1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DEF3D3CC1FE30CF7006DBDC1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				DEF3D3CA1FE30CF7006DBDC1 /* AppDelegate.swift */,
 				DEF3D3CC1FE30CF7006DBDC1 /* ViewController.swift */,
+				DE96CFFC1FE34E4700DADFCC /* PartidoBE.swift */,
 				DEF3D3CE1FE30CF7006DBDC1 /* Main.storyboard */,
 				DEF3D3D41FE30CF7006DBDC1 /* Assets.xcassets */,
 				DEF3D3D61FE30CF7006DBDC1 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE96CFFD1FE34E4700DADFCC /* PartidoBE.swift in Sources */,
 				DEF3D3D31FE30CF7006DBDC1 /* FulgolApp.xcdatamodeld in Sources */,
 				DEF3D3CD1FE30CF7006DBDC1 /* ViewController.swift in Sources */,
 				DEF3D3CB1FE30CF7006DBDC1 /* AppDelegate.swift in Sources */,
